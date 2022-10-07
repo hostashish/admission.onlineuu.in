@@ -1,0 +1,15 @@
+section#section_1 {
+    height: 650px;
+}
+
+.slider_main {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../images/header-background.jpg);
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+svg.bi.bi-1-circle-fill, svg.bi.bi-2-circle-fill, svg.bi.bi-3-circle-fill, svg.bi.bi-4-circle-fill {
+    fill: #68b437;
+}
